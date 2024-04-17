@@ -45,7 +45,7 @@ const Events = () => {
 
           <div className=' flex items-center justify-between gap-x-5'>
             <div className=' flex flex-col justify-between gap-y-4'>
-              <div className=' flex justify-between'>
+              <div className=' flex justify-between gap-x-4'>
                 <div className=' space-y-3'>
                   <button className=' bg-event-gradient px-2 py-1 text-primary font-normal text-sm rounded-[4px]'>
                     Music
@@ -105,7 +105,7 @@ const Events = () => {
 
           <div className=' flex items-center justify-between gap-x-5'>
             <div className=' flex flex-col justify-between gap-y-4'>
-              <div className=' flex justify-between'>
+              <div className=' flex justify-between gap-x-4'>
                 <div className=' space-y-3'>
                   <button className=' bg-event-gradient px-2 py-1 text-primary font-normal text-sm rounded-[4px]'>
                     Music
@@ -165,7 +165,7 @@ const Events = () => {
 
           <div className=' flex items-center justify-between gap-x-5'>
             <div className=' flex flex-col justify-between gap-y-4'>
-              <div className=' flex justify-between'>
+              <div className=' flex justify-between gap-x-4'>
                 <div className=' space-y-3'>
                   <button className=' bg-event-gradient px-2 py-1 text-primary font-normal text-sm rounded-[4px]'>
                     Music
